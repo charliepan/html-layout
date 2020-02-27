@@ -1,0 +1,69 @@
+.solid {
+    width: 97vw;
+    height: 200px;
+    border: 4px solid black;
+    margin: 20px 15px;
+    display: flex;
+}
+
+.rectangle1 {
+    margin-left: 10px;
+    margin-top: 50px;
+    width: 40px;
+    height: 140px;
+    background: #8a2be2;
+}
+
+.rectangle2 {
+    margin-left: 60px;
+    margin-top: 10px;
+    height: 180px;
+    width: 350px;
+    background: #298b22;
+}
+
+.circle {
+    margin-left: 60px;
+    margin-top: 10px;
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    background: #87ceeb;
+}
+
+.dotted {
+    width: 97vw;
+    height: 200px;
+    border: 4px dotted black;
+    margin: 20px 15px;
+    display: flex;
+}
+
+.rectangle3 {
+    margin: 30px;
+    width: 95vw;
+    height: 140px;
+    background: #fefacd;
+    box-shadow: 8px 8px 4px black;
+}
+
+.friends {
+    width: 45vw;
+    height: 200px;
+    line-height: 25px;
+    border: 1px solid grey;
+    box-shadow: 4px 4px 5px grey;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.friends h1 {
+    color: #09007f;
+    letter-spacing: 10px;
+}
+/* 
+    #298b22 - green
+    #87ceeb - lightblue
+    #fefacd - yellow
+*/
